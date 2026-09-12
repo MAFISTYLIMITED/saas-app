@@ -1,0 +1,6 @@
+{
+  "name": "LifeAgent.ai",
+  "description": "Autonomous AI Life Agent landing page featuring proactive cellular voice calls, task automation, and distraction locking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
